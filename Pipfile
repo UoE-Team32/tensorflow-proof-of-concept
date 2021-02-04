@@ -10,6 +10,7 @@ numpy = "*"
 matplotlib = "*"
 ipython = "*"
 six = "*"
+pandas = "*"
 
 [dev-packages]
 
